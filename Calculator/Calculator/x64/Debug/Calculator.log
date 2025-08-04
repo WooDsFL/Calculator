@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Austin Woods\Desktop\CS-210\Calculator\x64\Debug\Calculator.exe : fatal error LNK1120: 1 unresolved externals
